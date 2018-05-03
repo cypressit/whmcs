@@ -6,3 +6,52 @@
     defined here.
 
 ***************************************************** */
+
+.navbar-default {
+    background-color:teal;
+    background-image: none;
+    background-repeat: no-repeat;
+}
+/*
+Change the color of the view cart button in the nav menu....
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #0b2e13;
+    color: white;
+}
+
+ul.top-nav > li.primary-action > a.btn {
+    padding: 6px 15px;
+    background-color: red;
+    color: #fff;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+/*
+
+Change the color for the primary button
+
+Button:
+
+.btn-primary {
+    padding: 6px 15px;
+    background-color: yellow;
+    color: #fff;
+    border-radius: 3px;
+}
+
+/* Button:Hover
+
+
+.btn-primary:hover {
+    padding: 6px 15px;
+    background-color: green;
+    color: #fff;
+    border-radius: 3px;
+}
+*/

@@ -35,8 +35,6 @@
                     </div>
                 </li>
             {/if}
-
-
             {if $loggedin}
                 <li>
                     <a href="#" data-toggle="popover" id="accountNotifications" data-placement="bottom">
@@ -93,7 +91,7 @@
         {if $assetLogoPath}
             <a href="{$WEB_ROOT}/index.php" class="logo"><img src="{$assetLogoPath}" alt="{$companyname}"></a>
         {else}
-            <a href="{$WEB_ROOT}/index.php" class="logo logo-text">My Name is {$companyname}</a>
+            <h1>Test</h1>
         {/if}
 
     </div>
