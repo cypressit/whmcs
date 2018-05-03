@@ -142,7 +142,7 @@
     <section>
         <div class="jumbotron text-center">
             <h1>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</h1>
-            <p>Resize this responsive page to see the effect!</p>
+            <p>Welcome - Resize this responsive page to see the effect!</p>
         </div>
     </section>
 
